@@ -1,3 +1,8 @@
+## links
+ - [page](https://tech-samples.vercel.app/)
+ - [api](https://github.com/estevan3/api-tech-samples)
+ - [api](https://tech-samples-backend.herokuapp.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
