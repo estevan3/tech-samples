@@ -1,6 +1,6 @@
 ## links
  - [page](https://tech-samples.vercel.app/)
- - [api](https://github.com/estevan3/api-tech-samples)
+ - [api repo](https://github.com/estevan3/api-tech-samples)
  - [api source](https://tech-samples-backend.herokuapp.com/)
 
 # Getting Started with Create React App
